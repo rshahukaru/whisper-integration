@@ -1,0 +1,9 @@
+streamlit
+openai
+bs4
+numpy
+audio_recorder_streamlit
+chromadb
+pysqlite3-binary
+requests
+tornado
