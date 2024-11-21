@@ -433,6 +433,8 @@ COUNTRY_LANGUAGES = {
     "Japan": "Japanese",
     "China": "Chinese",
     "Brazil": "Portuguese",
+    "North India": "Hindi",
+    "Telangana / Andhra Pradesh": "Telugu",
     # Add more countries and their languages as needed
 }
 
